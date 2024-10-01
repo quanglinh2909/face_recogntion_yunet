@@ -1,0 +1,1218 @@
+[{
+  "_id": {
+    "$oid": "664d947a073d2177bfe0ed6b"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:45:14.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T13:49:42.000Z"
+  },
+  "name": "Đậu Trọng Hùng",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9504073d2177bfe0ed6f"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:47:32.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:07:51.000Z"
+  },
+  "name": "Dương Thuỷ Tiên",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d95cc073d2177bfe0ed73"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:50:52.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:39:58.000Z"
+  },
+  "name": "Phương Tấn Thành",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9619073d2177bfe0ed78"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:52:09.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:39:50.000Z"
+  },
+  "name": "Hoàng Quang Linh",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9664073d2177bfe0ed7c"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:53:24.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:07:44.000Z"
+  },
+  "name": "Hồ Thị Nguyên Ngọc",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d968f073d2177bfe0ed81"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:54:07.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:39:42.000Z"
+  },
+  "name": "Kim Ngọc Thêm",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d96dc073d2177bfe0ed89"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:55:24.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:39:35.000Z"
+  },
+  "name": "Lê Đình Minh",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9700073d2177bfe0ed8d"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:56:00.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:07:36.000Z"
+  },
+  "name": "Lê Lan Linh",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d976a073d2177bfe0ed92"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:57:46.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:07:30.000Z"
+  },
+  "name": "Lê Ngọc Yến",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d979e073d2177bfe0ed96"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T13:58:38.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:39:28.000Z"
+  },
+  "name": "Lê Thái Tú",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9886073d2177bfe0ed9a"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:02:30.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:39:23.000Z"
+  },
+  "name": "Lê Thành Hiếu",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d98c1073d2177bfe0ed9e"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:03:29.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T17:11:36.000Z"
+  },
+  "name": "Lê Thị Hồng Thảo",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d98f7073d2177bfe0eda2"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:04:23.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:39:15.000Z"
+  },
+  "name": "Lý Văn Vương",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d991d073d2177bfe0eda6"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:05:01.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:39:09.000Z"
+  },
+  "name": "Ngô Hoàng Phúc",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d99fa073d2177bfe0edaa"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:08:42.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:42:36.000Z"
+  },
+  "name": "Nguyễn Công Bằng",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9a1f073d2177bfe0edaf"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:09:19.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:42:24.000Z"
+  },
+  "name": "Nguyễn Ngọc Sang",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9a52073d2177bfe0edb5"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:10:10.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:42:17.000Z"
+  },
+  "name": "Nguyễn Tấn Khoa",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9a8e073d2177bfe0edba"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:11:10.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:07:21.000Z"
+  },
+  "name": "Nguyễn Thanh Hằng",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9aab073d2177bfe0edbe"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:11:39.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:07:13.000Z"
+  },
+  "name": "Nguyễn Thị Bích Trinh",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9ad4073d2177bfe0edc2"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:12:20.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:07:05.000Z"
+  },
+  "name": "Nguyễn Thị Hà An",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9b83073d2177bfe0edc6"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:15:15.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T16:11:48.000Z"
+  },
+  "name": "Nguyễn Thị Thuý Ngân",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9bbd073d2177bfe0edca"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:16:13.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:42:05.000Z"
+  },
+  "name": "Nguyễn Văn An",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9bcd073d2177bfe0edce"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:16:29.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:41:56.000Z"
+  },
+  "name": "Nguyễn Văn Phần",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9c6cce6afb88b6bff134"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:19:08.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:41:47.000Z"
+  },
+  "name": "Nguyễn Xuân Thành",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9c8dce6afb88b6bff138"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:19:41.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:41:39.000Z"
+  },
+  "name": "Phạm Anh Tuấn",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9ca7ce6afb88b6bff13d"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:20:07.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:06:57.000Z"
+  },
+  "name": "Phạm Thị Tuyết Nhung",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9cefce6afb88b6bff146"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:21:19.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:41:24.000Z"
+  },
+  "name": "Phan Thanh Hải",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9d34ce6afb88b6bff14b"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:22:28.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:41:17.000Z"
+  },
+  "name": "Thiều Quang Vinh",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9d58ce6afb88b6bff14f"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:23:04.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:06:46.000Z"
+  },
+  "name": "Trần Hoàng Khánh Linh",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9dafce6afb88b6bff153"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:24:31.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:40:55.000Z"
+  },
+  "name": "Trần Minh Anh Trúc",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9e8ce3efb4fb336a9ad4"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:28:12.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T14:40:46.000Z"
+  },
+  "name": "Võ Hoàng Khôi",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664d9ed9e3efb4fb336a9add"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T14:29:29.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:06:38.000Z"
+  },
+  "name": "Võ Thị Thanh Tuyền",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664da63fe3efb4fb336a9ae9"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T15:01:03.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T18:06:32.000Z"
+  },
+  "name": "Trần Thoại Kim",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "664dbf8bbe40774281b9727e"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-05-22T16:48:59.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-05-22T16:49:15.000Z"
+  },
+  "name": "Nguyễn Chí Thiện",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "665d22e386a850cecfab18c1"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-06-03T08:56:51.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-06-03T08:57:16.000Z"
+  },
+  "name": "Hoàng Long",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66714676ac0488fa4be5eb53"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-06-18T15:33:58.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-06-18T15:33:58.000Z"
+  },
+  "name": "Trần Chí Hiếu",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66726b8ba55711a093025b93"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-06-19T12:24:27.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-06-19T20:17:26.000Z"
+  },
+  "name": "Vũ Trí Hồng Hải",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66726bc9a55711a093025b98"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-06-19T12:25:29.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-06-19T20:17:31.000Z"
+  },
+  "name": "Ngô Quỳnh Hương",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66726cfda55711a093025b9d"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-06-19T12:30:37.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-06-19T20:17:35.000Z"
+  },
+  "name": "Nguyễn Thanh Bình",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6672db4fa55711a093025ba2"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-06-19T20:21:19.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-06-19T20:21:54.000Z"
+  },
+  "name": "Nguyễn Thị Thủy",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6672dbdba55711a093025bb2"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-06-19T20:23:39.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-06-19T20:23:53.000Z"
+  },
+  "name": "Trương Trọng Hiếu",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66739c130e33595f18e0a9c8"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-06-20T10:03:47.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-06-20T10:03:47.000Z"
+  },
+  "name": "Chú BV HCM",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66739ca90e33595f18e0a9ca"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-06-20T10:06:17.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-06-20T10:06:31.000Z"
+  },
+  "name": "Nguyễn Thái Duy",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66835e8dd61e9d44965e77e8"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-02T08:57:33.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-03T18:56:29.000Z"
+  },
+  "name": "Trần Phạm Vinh",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "668516093120e101e7492d2c"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-03T16:12:41.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-03T18:56:25.000Z"
+  },
+  "name": "Vương Minh Tuấn",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "668dff9be2e2b34e049b9340"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-10T10:27:23.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-11T13:32:23.000Z"
+  },
+  "name": "Ánh Nhi",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "668f37ede2e2b34e049b9349"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-11T08:39:57.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-11T08:39:57.000Z"
+  },
+  "name": "Phan Hữu Phước",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6694aed53b441ddff80a13fd"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-15T12:08:37.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-15T12:08:37.000Z"
+  },
+  "name": "Phạm Văn Thuận",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6695ddaf3b441ddff80a1415"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-16T09:40:47.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-16T09:40:47.000Z"
+  },
+  "name": "Huỳnh Hữu Nghĩa",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6695df653b441ddff80a141c"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-16T09:48:05.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-16T10:31:46.000Z"
+  },
+  "name": "Lê Phúc",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6695e0593b441ddff80a1423"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-16T09:52:09.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-22T09:09:20.000Z"
+  },
+  "name": "Chí Nguyên",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6696146c3b441ddff80a142a"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-16T13:34:20.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-16T13:35:33.000Z"
+  },
+  "name": "Phạm Thị Chung",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66972c793b441ddff80a1432"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-17T09:29:13.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-17T09:29:13.000Z"
+  },
+  "name": "Nguyễn Thanh Thảo",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66a05e723f3390946f1401de"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-24T08:52:50.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-08-20T15:29:02.000Z"
+  },
+  "name": "Phạm Thị Ngọc Trâm",
+  "other_info": {
+    "gender": "",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66a05f993f3390946f1401e4"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-24T08:57:45.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-08-20T15:29:33.000Z"
+  },
+  "name": "Nguyễn Xuân Bình",
+  "other_info": {
+    "gender": "",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66a73f69688517d8a5493fba"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-29T14:06:17.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-07-29T14:06:17.000Z"
+  },
+  "name": "Đoàn Thanh Sang",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66a843a1688517d8a5493fc2"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-30T08:36:33.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-08-20T15:31:02.000Z"
+  },
+  "name": "Nguyễn Xuân Hạnh",
+  "other_info": {
+    "gender": "",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66a88ed0688517d8a5493fc9"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-07-30T13:57:20.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-08-20T15:32:39.000Z"
+  },
+  "name": "Ngô Tấn Trọng",
+  "other_info": {
+    "gender": "",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66ab1096688517d8a5493fd0"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-08-01T11:35:34.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-08-01T11:35:34.000Z"
+  },
+  "name": "Hải Yến",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66b04e57b9b5a28abdb9716c"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-08-05T11:00:23.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-08-05T11:00:23.000Z"
+  },
+  "name": "Minh Anh",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66b48457bc311ecc008ed705"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-08-08T15:39:51.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-08-08T15:39:51.000Z"
+  },
+  "name": "Nguyễn Thị Gương",
+  "other_info": {
+    "gender": "female",
+    "address": "VP HCM"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c69450f5958ec285b662ce"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-08-22T08:28:48.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-08-22T08:28:48.000Z"
+  },
+  "name": "Phan Tuấn Anh",
+  "other_info": {}
+},
+{
+  "_id": {
+    "$oid": "66cc420df5958ec285b662d5"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-08-26T15:51:25.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-08-26T15:54:46.000Z"
+  },
+  "name": "Trần Phúc Hiếu",
+  "other_info": {
+    "gender": "",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66e13a2e19f64d91e79f27ff"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-09-11T13:35:26.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-09-13T16:48:46.000Z"
+  },
+  "name": "Nguyễn Ngọc Chính",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66e7a59aa4c363c52a285ac3"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-09-16T10:27:22.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-09-20T12:30:30.000Z"
+  },
+  "name": "Đinh Văn Hiếu",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66e80622a4c363c52a285ac7"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-09-16T17:19:14.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-09-16T17:19:14.000Z"
+  },
+  "name": "Nguyễn Văn Hậu",
+  "other_info": {}
+},
+{
+  "_id": {
+    "$oid": "66eaa8f89942cad30261d9a4"
+  },
+  "company_id": "66eaa5fe58fc53b1b252404c",
+  "created": {
+    "$date": "2024-09-18T17:18:32.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-09-18T17:18:32.000Z"
+  },
+  "name": "MinhLD",
+  "other_info": {
+    "gender": "male",
+    "address": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "66f147566215deef1cb054da"
+  },
+  "company_id": "664ac252e03b1077dd56cf7f",
+  "created": {
+    "$date": "2024-09-23T17:47:50.000Z"
+  },
+  "is_delete": false,
+  "modified": {
+    "$date": "2024-09-23T17:47:50.000Z"
+  },
+  "name": "Huỳnh Thị Ngọc Hân",
+  "other_info": {
+    "gender": "female",
+    "address": ""
+  }
+}]

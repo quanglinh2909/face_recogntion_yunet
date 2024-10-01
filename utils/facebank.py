@@ -21,8 +21,8 @@ from pathlib import Path
 import cv2
 
 test_transform = trans.Compose([
-    trans.ToTensor(),
-    trans.Normalize([0.5, 0.5, 0.5], [0.5, 0.5, 0.5])])
+                trans.ToTensor(),
+                trans.Normalize([0.5, 0.5, 0.5], [0.5, 0.5, 0.5])])
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
@@ -31,7 +31,7 @@ def listdir_nohidden(path):
         if not f.startswith('.'):
             yield f
 
-def prepare_facebank(model, path = 'facebank', tta = True,detectFace=None):
+def prepare_facebank(model, path = 'facebank', tta = False,detectFace=None):
     model.eval()
     embeddings = []
     names = ['']
@@ -47,19 +47,22 @@ def prepare_facebank(model, path = 'facebank', tta = True,detectFace=None):
                 image_path = os.path.join(doc, files)
                 print(image_path)
                 img = cv2.imread(image_path)
+                bboxes, landmarks = detectFace.detect(img)
+                img = Face_alignment(img, default_square=True, landmarks=landmarks)
+                # if len(bboxes) != 1:
+                #     print("No face or more than one face in the image: ", image_path)
+                #     continue
 
-                if img.shape != (112, 112, 3):
-                    bboxes, landmarks = detectFace.detect(img, w_scale=320, h_scale=240)
-                    img = Face_alignment(img, default_square=True, landmarks=landmarks)
+                img = img[0]
 
-                with torch.no_grad():
-                    if tta:
-                        mirror = cv2.flip(img, 1)
-                        emb = model(test_transform(img).to(device).unsqueeze(0))
-                        emb_mirror = model(test_transform(mirror).to(device).unsqueeze(0))
-                        embs.append(l2_norm(emb + emb_mirror))
-                    else:
-                        embs.append(model(test_transform(img).to(device).unsqueeze(0)))
+                if tta:
+                    mirror = cv2.flip(img, 1)
+                    emb = model(test_transform(img).to(device).unsqueeze(0))
+                    emb_mirror = model(test_transform(mirror).to(device).unsqueeze(0))
+                    embs.append(l2_norm(emb + emb_mirror))
+                else:
+                    embs.append(model(test_transform(img).to(device).unsqueeze(0)))
+
 
             if len(embs) == 0:
                 continue
